@@ -1,0 +1,134 @@
+07:18:38 [1596691@uklvaswasdep01 1][NORMAL] Remedy Ticket Number : TAS000002326880
+07:18:38 [1596691@uklvaswasdep01 1][NORMAL] Remedy Ticket : TAS000002326880
+07:18:38 [1596691@uklvaswasdep01 1][NORMAL] 
+07:18:38 [1596691@uklvaswasdep01 1][NORMAL] Change Status : "Implementation In Progress"
+07:18:38 [1596691@uklvaswasdep01 1][NORMAL] Date Validation Successfull!!!
+07:18:38 [1596691@uklvaswasdep01 1][NORMAL] 
+07:18:38 [1596691@uklvaswasdep01 1][NORMAL] Task Status : "Assigned"
+07:18:38 [1596691@uklvaswasdep01 1][NORMAL] Remedy Ticket Validation Successfull!!!
+07:18:38 [1596691@uklvaswasdep01 1][NORMAL] Rundeck Custom Audit Log Entry added!!!
+07:18:38 [1596691@uklvaswasdep01 1][NORMAL] 2020-01-11 12:48:38 INFO  RdeckCustomLogManagement:77 - 1190683|BatchJob-Deploy-PG1019hkrmwbrt|1596691|TAS000002326880|RMWB|WorkBench|Managed_By_WebSupport_Team|GBL-ISCI-PSS-WORKBENCH|Corporate_And_Institutional_Banking|33470
+07:18:38 [1596691@uklvaswasdep01 1][NORMAL] Remedy Task work info updated. WorkInfoUpdated Id : 000000000677338
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] /home/hkrmwbrt
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] 733
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] 3.27
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] /tmp
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]                                  Dload  Upload   Total   Spent    Left  Speed
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] 
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]  39  9983   39  3923    0     0   259k      0 --:--:-- --:--:-- --:--:--  259k
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] 100  9983  100  9983    0     0   603k      0 --:--:-- --:--:-- --:--:-- 5917k
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] downloaded
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] Unzipping file--
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] Archive:  batch_automation_pack-733.zip
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]   inflating: batch_automation_script_deploy.sh  
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]   inflating: batch_automation_script.sh  
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]   inflating: batch_jobs_common.properties  
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]    creating: oat1/
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]   inflating: oat1/batch_jobs_oat1_41_ceddown.properties  
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]   inflating: oat1/batch_jobs_oat1_41_fuseadm.properties  
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]    creating: prod/
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]   inflating: prod/batch_jobs_prd_PG1019_hkrmwbrt.properties  
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]   inflating: prod/batch_jobs_prd_PG1019_hkecdft.properties  
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]   inflating: prod/batch_jobs_prd_PG1019_oracle.properties  
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]   inflating: prod/batch_jobs_prd_219_ceddown.properties  
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]    creating: sit/
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]   inflating: sit/batch_jobs_sit_91_ceddown.properties  
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]   inflating: sit/batch_jobs_sit_101_oracle.properties  
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]   inflating: sit/batch_jobs_sit_241_hkecdft.properties  
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]   inflating: sit/batch_jobs_sit_241_hkrmwbrt.properties  
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]    creating: uat/
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]   inflating: uat/batch_jobs_uat_101_oracle.properties  
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]   inflating: uat/batch_jobs_uat_91_ceddown.properties  
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] unzippedfile
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/workspace': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20191123143340': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20191123143340/OfflineDealBatch': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20191109132836': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20191109132836/ProspectConversionBatch': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20190322190458': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20190322190458/oracletestbatch': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20190921095404': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20190921095404/DormantProspectsBatch': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20191019130138': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20190803121813': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20190817130406': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20191123143231': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20191123143231/Race_CreditCalendar': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20191109132601': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20191109132601/Race_CreditCalendar': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20190706125328': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20190706125328/epdm': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20190803121533': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20190803121533/EDMP': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20190720094234': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20190720094234/EDMP': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20190308190000': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20190308190000/oracletestbatch': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20190329201342': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20190329201342/hkecdfttestbatch': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20200111151725': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20190301134924': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20190301134924/oracletestbatch': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20190615114117': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20190615114117/onewb_scorecard_batch': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] chmod: changing permissions of `/tmp/backup/20190615114117/wb_feebooking_data_batch': Operation not permitted
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] /tmp/workspace
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] total 100
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] drwxrwxrwx  6 oracle   dba    12288 Jan 11 15:18 .
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] drwxrwxrwt 91 root     root   40960 Jan 11 15:18 ..
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] -rwxrwxrwx  1 hkrmwbrt hkrmwb  9983 Jan 11 15:18 batch_automation_pack-733.zip
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] -rwxrwxrwx  1 hkrmwbrt hkrmwb   942 Dec 12 19:21 batch_automation_script.sh
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] -rwxrwxrwx  1 hkrmwbrt hkrmwb  7430 Dec 12 19:21 batch_automation_script_deploy.sh
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] -rwxrwxrwx  1 hkrmwbrt hkrmwb   116 Dec 12 19:21 batch_jobs_common.properties
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] drwxrwxrwx  2 hkrmwbrt hkrmwb  4096 Dec 12 19:21 oat1
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] drwxrwxrwx  2 hkrmwbrt hkrmwb  4096 Dec 12 19:21 prod
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] drwxrwxrwx  2 hkrmwbrt hkrmwb  4096 Dec 12 19:21 sit
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] drwxrwxrwx  2 hkrmwbrt hkrmwb  4096 Dec 12 19:21 uat
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] Running the framework script...
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] Calling execution of batch_automation_script.sh ...
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] In batch_automation_script.sh...
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]                                  Dload  Upload   Total   Spent    Left  Speed
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] 
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL]   0  410k    0  3919    0     0   139k      0  0:00:02 --:--:--  0:00:02  139k
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] 100  410k  100  410k    0     0  6736k      0 --:--:-- --:--:-- --:--:-- 12.0M
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] wb_batch_riskview/
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] wb_batch_riskview/lib/
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] wb_batch_riskview/lib/wb-batch-riskview-1.0.0.jar
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] ############## Extracted ###############
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] Changing permission of downloaded artifacts
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] Removing tar file to tmp folder
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] End - batch_automation_script.sh...
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] Finished batch_automation_script.sh execution.
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] Calling batch_automation_script_deploy.sh ...
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] In batch_automation_script_deploy.sh...
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] prod/batch_jobs_prd_PG1019_hkrmwbrt.properties
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] PRINTING PROPERTY job_list hkrmwbrttestbatch,Race_EPDM,globalsearch,creditmonitoring_batch,ActionPlanTaskReminderBatch,wb-batch-dealteam-wallcrossee,race_limit_batch
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] PRINTING PROPERTY bakup_path /tmp/backup
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] PRINTING PROPERTY hkrmwbrttestbatch_deployment_path /prd/appl/hkrmwbrttestbatch/
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] PRINTING PROPERTY hkrmwbrttestbatch_removal_path /prd/appl/hkrmwbrttestbatch/test3.sh
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] PRINTING PROPERTY Race_EPDM_deployment_path /prd/appl/Race_EPDM
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] PRINTING PROPERTY Race_EPDM_removal_path /prd/appl/Race_EPDM/lib/race-epd-batch-3.26.19.jar
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] PRINTING PROPERTY globalsearch_deployment_path /prd/appl/scripts/wb2.0/globalsearch/
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] PRINTING PROPERTY creditmonitoring_batch_deployment_path /prd/appl/scripts/creditmonitoring_batch/
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] PRINTING PROPERTY creditmonitoring_batch_removal_path /prd/appl/scripts/creditmonitoring_batch/lib/wb-batch-creditmonitoring-3.24.5-49.jar
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] PRINTING PROPERTY ActionPlanTaskReminderBatch_deployment_path /prd/appl/scripts/dap/ActionPlanTaskReminderBatch
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] PRINTING PROPERTY ActionPlanTaskReminderBatch_removal_path /prd/appl/scripts/dap/ActionPlanTaskReminderBatch/lib/onewb-ap-batch-services-3.1.9.jar
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] batch_automation_script_deploy.sh: line 17: wb-batch-dealteam-wallcrossee_deployment_path=/prd/appl/scripts/wallcrosser/wb-batch-dealteam-wallcrossee/: No such file or directory
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] PRINTING PROPERTY wb-batch-dealteam-wallcrossee_deployment_path /prd/appl/scripts/wallcrosser/wb-batch-dealteam-wallcrossee/
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] batch_automation_script_deploy.sh: line 17: wb-batch-dealteam-wallcrossee_removal_path=/prd/appl/scripts/wallcrosser/wb-batch-dealteam-wallcrossee/lib/wb-batch-dealteam-wallcrossee.jar: No such file or directory
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] PRINTING PROPERTY wb-batch-dealteam-wallcrossee_removal_path /prd/appl/scripts/wallcrosser/wb-batch-dealteam-wallcrossee/lib/wb-batch-dealteam-wallcrossee.jar
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] PRINTING PROPERTY race_limit_batch_deployment_path /prd/appl/race_limit_batch/
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] PRINTING PROPERTY #END OF PROPERTY FILE # DO NOT DELETE THISLINE####
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] PREPARING FOR NEW JOBS
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] JOB NAME : wb_batch_riskview/
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] DEPLOYMENT PATH : wb_batch_riskview_deployment_path
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] REMOVAL PATH : wb_batch_riskview_removal_path
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] Unable to find job wb_batch_riskview/
+07:18:46 [hkrmwbrt@hkrmwbrt@10.20.189.43 2][NORMAL] Finished batch_automation_script_deploy.sh execution...
+07:18:49 [1596691@uklvaswasdep01 3][NORMAL] Remedy Ticket Number : TAS000002326880
+07:18:49 [1596691@uklvaswasdep01 3][NORMAL] Remedy Ticket : TAS000002326880
+07:18:49 [1596691@uklvaswasdep01 3][NORMAL] Remedy Task work info updated. WorkInfoUpdated Id : 000000000677339
+07:18:49 [1596691@uklvaswasdep01 3][NORMAL] Remedy work info is updated as : Rundeck Execution ID : 1190683 - Job 'BatchJob-Deploy-PG1019hkrmwbrt' on the application 'RMWB' is successfully executed by user '1596691' on nodes [hkrmwbrt@10.20.189.43]
